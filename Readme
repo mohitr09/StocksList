@@ -1,1 +1,18 @@
-Readme 
+Stocks - User Portfolio
+
+This project is a part of the UpStocks app, featuring the UserPortfolioViewController, which displays a user’s portfolio information in a structured and interactive view. This view controller allows users to view their holdings, profit & loss details, and other relevant portfolio information.
+
+Overview
+UserPortfolioViewController manages the user interface elements for displaying and managing user portfolio data. It integrates various UI components including labels, buttons, and table views to provide an interactive experience.
+
+Features
+* Profile Button: Allows users to view and edit their profile.
+* Portfolio and Holdings Display: Provides an overview of the user’s investments, with options to filter and search holdings.
+* Profit & Loss Information: Displays profit and loss in an expandable section with detailed values.
+* Interactive UI: Includes buttons for filtering, searching, and toggling between positions and holdings.
+
+Usage
+* Launch the app and navigate to the UserPortfolioViewController.
+* Use the profile, search, and filter buttons to customize your view.
+* Toggle between portfolio types using the buttons in the stack view.
+* Expand and collapse the Profit & Loss view to see additional details.
